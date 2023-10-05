@@ -12,6 +12,6 @@ public class ExemploOn {
     public static void main(String[] args) {
         int[] numeros = {1, 2, 3, 4, 5};
         int resultado = calcularSoma(numeros);
-        System.out.println("A soma dos elementos é: " + resultado);
+        System.out.println("A app dos elementos é: " + resultado);
     }
 }
