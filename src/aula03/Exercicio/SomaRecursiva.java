@@ -13,8 +13,6 @@ public class SomaRecursiva {
         int[] array = {20, 30, 40};
         int tamanho = array.length;
         int resultado = somaArrayRecursivamente(array, tamanho);
-        System.out.println("A soma recursiva é: " + resultado);
-
+        System.out.println("A app recursiva é: " + resultado);
     }
-
 }
